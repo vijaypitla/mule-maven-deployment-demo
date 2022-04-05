@@ -13,7 +13,7 @@
 		<groupId>com.javastreets</groupId>
 		<artifactId>mule-maven-parent-pom</artifactId>
 		<version>0.0.5-SNAPSHOT</version>
-		<relativePath>vijaypitla/mule-maven-parent-pom/pom.xml</relativePath>
+		<relativePath>../mule-maven-parent-pom/pom.xml</relativePath>
 	</parent>
 
 	<properties>
